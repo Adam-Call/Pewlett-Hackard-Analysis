@@ -9,8 +9,8 @@ In this analysis we are looking forward and building planning for future employe
 - There will be 1,549 employees eligible for mentorship program.
 - The total salary of employees eligible for retirement is $1,753,978,730.
 - The managers of Sales and Research will be eligible for retirement.
-- These are the titles eligible for mentorship program. 
-![mentorship_titles](https://user-images.githubusercontent.com/80363261/116803565-7eb22d80-aade-11eb-869e-d380b3b1257e.png)
+- These are the titles eligible for mentorship program.
+-![mentorship_titles](https://user-images.githubusercontent.com/80363261/116803565-7eb22d80-aade-11eb-869e-d380b3b1257e.png)
 
 ## Summary
 
